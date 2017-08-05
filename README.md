@@ -1,5 +1,5 @@
-# MS-Word-PER-PAGE-WORDCOUNT
-This is code to get MS-Word exact Word Count ( Works for DOC - DOCX ) per page 
+# MS-Word-PER-PAGE-WORDCOUNT PHP
+This is code to get MS-Word exact Word Count ( Works for DOC - DOCX ) per page PHP
 
 Please contact lettertoamit@gmail.com for more details 
 
